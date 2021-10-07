@@ -1,0 +1,319 @@
+
+.pageTitle{
+	color:blue;
+	background-color:yellow;
+}
+
+.pageMargin{
+	margin-left:500px;
+	margin-right:500px;
+}
+
+.centeredcontent{
+	text-align:center;
+	margin-top:80px;
+	border-radius:8px;
+}
+
+.newrow{
+	display:flex;
+}
+
+.newcolumn{
+	flex:33.33%;
+	font-family:cursive;	
+}
+
+img{
+	border-radius:8px;
+}
+
+.column{
+	float:left;
+	padding:10px;
+	
+	
+}
+
+.left .right{
+	width:25%
+}
+
+.middle{
+	width:50%;
+}
+
+.big{
+	margin-bottom:0px;
+}
+
+.small{
+	margin-top:0px;
+}
+
+.rowsecond{
+	min-height:900px;
+}
+
+.rowthird{	
+}
+
+.column{
+	padding:10px;
+}
+
+.column1{
+	width:30%;
+	text-align:center;
+}
+
+.column2{
+	width:65%;
+	text-align:center;
+	font-size:18px;
+	font-family:cursive
+}
+
+
+.column4row5{
+	float:left;
+}
+
+.column3{
+     font-size:18px; 
+	 font-family:cursive;
+	 text-align:center;
+	 width:50%	 
+}
+
+.column4{
+	text-align:center;
+	width:50%;
+}
+
+
+.column5{
+	width:60.30%;
+	text-align:center;
+}
+
+.column6{
+	width:50%;
+	text-align:left;
+	font-family:cursive;
+	top:20px;
+}
+
+.column7{
+	width:30%;
+	text-align:center;
+}
+
+.column8{
+	width:20%;
+	position: relative;
+	top:-30px;
+	font-family:cursive;
+	color:#CD5C5C;
+	text-align:center;
+	text-shadow:25px 25px blue;
+}
+
+.column9{
+	width:20%;
+	text-align:left;
+	color:#FF1493;
+	text-shadow:15px 15px #8B008B
+}
+
+.column10{
+	width:50%;
+	font-family:cursive;
+	color:#FF1493;
+}
+
+.column11{
+	 text-align:center;
+}
+
+.container{
+	position:relative;
+	text-align:center;
+	color:black;
+	clear:left;
+	min-height:700px;	
+}
+
+.top-left{
+	position:absolute;
+	top:8px;
+	left:16px;
+	width:50%;	
+	font-family:cursive;
+	font-size:
+}
+
+.row9{
+	float:left;
+}
+
+.row9firsttcolumn{
+	width:25%;
+}
+
+.row9secondtcolumn{
+	width:70%;
+}
+
+/* following css are for client section */
+
+.clientdata{
+	font-family:cursive;
+	text-align:center;
+}
+
+.clientdata img{
+	width:300px;
+	height:200px;
+	
+}
+
+.client1data1{
+	width:20%;
+	text-align:left;
+	
+}
+
+.client1data2{
+	width:80%;
+	text-align:left;
+}
+
+.client2data1{
+	text-align:left;
+
+}
+
+.client2data2{
+	text-align:left;
+}
+
+
+table,th,td{
+	border:1px solid black;
+}
+
+.roweigth{
+	min-height:420px;
+}
+
+.rowseventh{
+	min-height:300px;
+}
+
+.row10{
+	float:left;
+	min-height:1000px;
+}
+
+.column101{
+	width:20%;
+	text-align:left;
+	text-shadow:15px  15px #FF0000;
+}
+
+.column102{
+	width:50%;
+	text-align:left;
+	min-height:300px
+}
+.column103{
+	width:30px;
+}
+
+.nutritiondietplan{
+	float:left;
+}
+
+
+
+
+.row11{
+	float:left;
+	min-height:550px;
+}
+
+.vegetable{
+	width:20%;
+	text-shadow:15px  15px #008080;
+}
+
+
+.vegetable1{
+	width:50%;
+	
+}
+
+.vegetable2{
+	width:25%;
+	text-align:right;
+}
+
+.fruits{
+	float:left;
+	
+}
+
+.fruitrow{
+	float:left;
+}
+
+.fruit1{
+	width:20%;
+	text-shadow:15px 15px #ff0040;
+}
+
+.fruit2{
+	width:50%;
+}
+
+.fruit3{
+	width:5%;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
