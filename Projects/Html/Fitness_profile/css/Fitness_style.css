@@ -121,19 +121,21 @@ img{
 
 .column9{
 	width:20%;
-	text-align:left;
 	color:#FF1493;
-	text-shadow:15px 15px #8B008B
+	text-shadow:13px 13px #8B008B
 }
 
 .column10{
-	width:50%;
+	width:55%;
 	font-family:cursive;
 	color:#FF1493;
+	v-align:center;
+	text-align:left;
 }
 
 .column11{
 	 text-align:center;
+	 v-align:center;
 }
 
 .container{
@@ -205,6 +207,7 @@ table,th,td{
 
 .roweigth{
 	min-height:420px;
+	max-height:500px;
 }
 
 .rowseventh{
@@ -213,29 +216,29 @@ table,th,td{
 
 .row10{
 	float:left;
-	min-height:1000px;
+	min-height:240px;
 }
 
 .column101{
 	width:20%;
-	text-align:left;
-	text-shadow:15px  15px #FF0000;
+	text-align:center;
+	text-shadow:25px  25px #FF0000;
 }
 
 .column102{
-	width:50%;
+	width:55%;
 	text-align:left;
-	min-height:300px
+	
 }
 .column103{
-	width:30px;
+	text-align:left;
+	width:20%;
+	
 }
 
 .nutritiondietplan{
 	float:left;
 }
-
-
 
 
 .row11{
@@ -261,35 +264,119 @@ table,th,td{
 
 .fruits{
 	float:left;
+	min-height:250px;
 	
 }
 
 .fruitrow{
 	float:left;
+	
 }
 
 .fruit1{
 	width:20%;
-	text-shadow:15px 15px #ff0040;
-}
-
-.fruit2{
-	width:50%;
-}
-
-.fruit3{
-	width:5%;
+	text-shadow:25px 25px #ff0040;
 	text-align:center;
 }
 
+.fruit2{
+	width:55%;
+	
+}
+
+.fruit3{
+	width:25%;
+	text-align:right;
+	
+}
+
+.chart{
+	text-align:center;
+	font-family:cursive;
+	font-size:30px;
+	color:Violet;
+	min-height:5px;
+	max-height:0px;
+}
+.chart2{
+	font-size:18px;
+	font-family:cursive;
+	color:#0000FF;
+}
+
+.paleo{
+	float:left;
+	width:100%;
+	min-height:200px;
+}
+
+.paleoheading{
+	font-size:25px;
+	font-family:cursive;
+	width:15%;
+	color:#800080;
+}
+
+.paleoimag{
+	width:20%;
+	text-align:left;
+}
+
+.paleodetails{
+	width:60%;
+	color:#800080;
+	font-size:15px;
+	font-family:cursive;
+}
 
 
+.dietNo2{
+	min-height:205px;
+}
+.veganHeading{
+	width:15%;
+	font-size:25px;
+	font-family:cursive;
+	float:left;
+}
 
+.vegandietimage{
+	width:20%;
+	float:left;
+}
 
+.vegandetails{
+	width:64%;
+	float:left;
+	text-align:left;
+	font-family:cursive;
+	font-size:15px;
+}
 
+.Lowcarbsdiet{
+	min-height:100px;
+}
 
+.Lowcarbsdietheading{
+	width:15%;
+	font-size:25px;
+	font-family:cursive;
+	float:left;
+}
 
+.lowcarbsimage{
+	width:20.50%;
+    float:left;
+}
 
+.Lowcarbdetails{
+	width:50%;
+	float:left;
+	font-size:15px;
+	font-family:cursive;
+	text-align:left;
+	background-color:yellow;
+}
 
 
 
