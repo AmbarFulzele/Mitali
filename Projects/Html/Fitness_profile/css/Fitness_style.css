@@ -1,18 +1,18 @@
 
 .pageTitle{
 	color:blue;
-	background-color:yellow;
+	background-color:pink;
 }
 
 .pageMargin{
-	margin-left:500px;
-	margin-right:500px;
+	margin-left:500%;
+	margin-right:500%;
 }
 
 .centeredcontent{
 	text-align:center;
-	margin-top:80px;
-	border-radius:8px;
+	margin-top:80%;
+	border-radius:8%;
 }
 
 .newrow{
@@ -25,12 +25,12 @@
 }
 
 img{
-	border-radius:8px;
+	border-radius:8%;
 }
 
 .column{
 	float:left;
-	padding:10px;
+	padding:10%;
 	
 	
 }
@@ -44,22 +44,22 @@ img{
 }
 
 .big{
-	margin-bottom:0px;
+	margin-bottom:0%;
 }
 
 .small{
-	margin-top:0px;
+	margin-top:0%;
 }
 
 .rowsecond{
-	min-height:900px;
+	min-height:900%;
 }
 
 .rowthird{	
 }
 
 .column{
-	padding:10px;
+	padding:10%;
 }
 
 .column1{
@@ -70,7 +70,7 @@ img{
 .column2{
 	width:65%;
 	text-align:center;
-	font-size:18px;
+	font-size:18%;
 	font-family:cursive
 }
 
@@ -80,7 +80,7 @@ img{
 }
 
 .column3{
-     font-size:18px; 
+     font-size:18%; 
 	 font-family:cursive;
 	 text-align:center;
 	 width:50%	 
@@ -101,7 +101,7 @@ img{
 	width:50%;
 	text-align:left;
 	font-family:cursive;
-	top:20px;
+	top:20%;
 }
 
 .column7{
@@ -112,17 +112,17 @@ img{
 .column8{
 	width:20%;
 	position: relative;
-	top:-30px;
+	top:-30%;
 	font-family:cursive;
 	color:#CD5C5C;
 	text-align:center;
-	text-shadow:25px 25px blue;
+	text-shadow:25% 25% blue;
 }
 
 .column9{
 	width:20%;
 	color:#FF1493;
-	text-shadow:13px 13px #8B008B
+	text-shadow:13% 13% #8B008B
 }
 
 .column10{
@@ -143,13 +143,13 @@ img{
 	text-align:center;
 	color:black;
 	clear:left;
-	min-height:700px;	
+	min-height:700%;	
 }
 
 .top-left{
 	position:absolute;
-	top:8px;
-	left:16px;
+	top:8%;
+	left:16%;
 	width:50%;	
 	font-family:cursive;
 	font-size:
@@ -175,8 +175,8 @@ img{
 }
 
 .clientdata img{
-	width:300px;
-	height:200px;
+	width:300%;
+	height:200%;
 	
 }
 
@@ -202,27 +202,27 @@ img{
 
 
 table,th,td{
-	border:1px solid black;
+	border:1% solid black;
 }
 
 .roweigth{
-	min-height:420px;
-	max-height:500px;
+	min-height:420%;
+	max-height:500%;
 }
 
 .rowseventh{
-	min-height:300px;
+	min-height:300%;
 }
 
 .row10{
 	float:left;
-	min-height:240px;
+	min-height:240%;
 }
 
 .column101{
 	width:20%;
 	text-align:center;
-	text-shadow:25px  25px #FF0000;
+	text-shadow:25%  25% #FF0000;
 }
 
 .column102{
@@ -243,12 +243,12 @@ table,th,td{
 
 .row11{
 	float:left;
-	min-height:550px;
+	min-height:550%;
 }
 
 .vegetable{
 	width:20%;
-	text-shadow:15px  15px #008080;
+	text-shadow:15%  15% #008080;
 }
 
 
@@ -264,7 +264,7 @@ table,th,td{
 
 .fruits{
 	float:left;
-	min-height:250px;
+	min-height:250%;
 	
 }
 
@@ -275,7 +275,7 @@ table,th,td{
 
 .fruit1{
 	width:20%;
-	text-shadow:25px 25px #ff0040;
+	text-shadow:25% 25% #ff0040;
 	text-align:center;
 }
 
@@ -293,13 +293,13 @@ table,th,td{
 .chart{
 	text-align:center;
 	font-family:cursive;
-	font-size:30px;
+	font-size:30%;
 	color:Violet;
-	min-height:5px;
-	max-height:0px;
+	min-height:5%;
+	max-height:0%;
 }
 .chart2{
-	font-size:18px;
+	font-size:18%;
 	font-family:cursive;
 	color:#0000FF;
 }
@@ -307,11 +307,11 @@ table,th,td{
 .paleo{
 	float:left;
 	width:100%;
-	min-height:200px;
+	min-height:200%;
 }
 
 .paleoheading{
-	font-size:25px;
+	font-size:25%;
 	font-family:cursive;
 	width:15%;
 	color:#800080;
@@ -325,17 +325,17 @@ table,th,td{
 .paleodetails{
 	width:60%;
 	color:#800080;
-	font-size:15px;
+	font-size:15%;
 	font-family:cursive;
 }
 
 
 .dietNo2{
-	min-height:205px;
+	min-height:205%;
 }
 .veganHeading{
 	width:15%;
-	font-size:25px;
+	font-size:25%;
 	font-family:cursive;
 	float:left;
 }
@@ -350,16 +350,16 @@ table,th,td{
 	float:left;
 	text-align:left;
 	font-family:cursive;
-	font-size:15px;
+	font-size:15%;
 }
 
 .Lowcarbsdiet{
-	min-height:100px;
+	min-height:100%;
 }
 
 .Lowcarbsdietheading{
 	width:15%;
-	font-size:25px;
+	font-size:25%;
 	font-family:cursive;
 	float:left;
 }
@@ -372,10 +372,73 @@ table,th,td{
 .Lowcarbdetails{
 	width:64.5%;
 	float:left;
-	font-size:15px;
+	font-size:15%;
 	font-family:cursive;
 	text-align:left;
 	background-color:yellow;
+}
+
+.Jump Rope{
+	float:left;
+	width:100%;
+}
+
+.cardio{
+	width:100%;
+	min-height:2350%;
+}
+
+.cardio2{
+	width:100%;
+}
+
+.cardioform1{
+	width:20%;
+}
+
+.cardioform2{
+	width:20%;
+}
+
+.cardioform3{
+	width:20%;
+	min-width:450%;
+}
+
+.pageTitleFrame{
+	height:300%;
+	width:100%;
+	border:none 
+}
+
+.Exercise1ofBack{
+	width:100%;
+	min-height:500%;
+}
+
+.column1Exercise1ofBack{
+	float:left;
+    width:30%;	
+}
+
+.Details1Exercise1ofBack{
+	float:left;
+	width:50%;
+}
+
+.Exercise2ofBack{
+	width:100%;
+}
+
+.column1Exercise2ofBack{
+	width:30%;
+	float:left;
+}
+
+.Details2ExerciseofBack{
+	float:left;
+	width:50%;
+	font-family:cursive;
 }
 
 

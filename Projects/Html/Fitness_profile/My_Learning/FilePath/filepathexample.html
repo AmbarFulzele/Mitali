@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>A Certified Fitness Trainer</title>
+		<link rel="stylesheet" href="css/Fitness_style.css"></link>
+		<!-- Css is also not applied because it does not found css folder at the same level where the html file is -->
+	</head>
+	<body>
+		
+		<h1 class="centeredcontent pageTitle">Fitness New Goal 2021</h1>		
+	    
+		<div style="text-align:center">
+			<span><a href="Fitness_Home.html">Home</a></span>
+			<span><a href="Clients.html">Clients Profile</a></span>
+			<span><a href="Nutrition Diet Plan.html">Nutrition Diet Plans</a></span>
+		</div>
+		
+		<!-- Image not displayed beacause Media folder is not at same level where the html file is -->
+		<div class="centeredcontent newcolumn">   
+			<img src="Media/Image/trainer_profile.jpg" height="100" width="100"></img>
+			Image not displayed beacause Media folder is not at same level where the html file is
+		</div>
+		
+		<div class="centeredcontent newcolumn">
+			<img src="trainer_profile.jpg" height="100" width="100"></img>
+			Image is displayed beacause  it is at the same level
+		</div>
+			
+		<div class="centeredcontent newcolumn">
+			<img src="temp/trainer_profile.jpg" height="100" width="100"></img>
+			Image is displayed beacause temp folder it is at the same level
+		</div>
+		
+		<div class="centeredcontent newcolumn">
+			<img src="/mitali/Repository/Projects/Html/Fitness_profile/Media/Image/trainer_profile.jpg" height="100" width="100"></img>
+			Image is displayed beacause we have give path from root folder. / in the begining of path indicate to search from root folder
+		</div>
+				
+		<div class="centeredcontent newcolumn">
+			<img src="../Media/Image/trainer_profile.jpg" height="100" width="100"></img>
+			Image is displayed beacause Media folder is located at one level up and we have used .. to go one level up
+		</div>
+		
+		<div class="centeredcontent newcolumn">
+			<img src="../../trainer_profile1.jpg" height="100" width="100"></img>
+			Image is displayed beacause Media folder is located at two level up and we have used .. twice to go two level up
+		</div>
+
+	</body>
+</html>
+
+
+
+
